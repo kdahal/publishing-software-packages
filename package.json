@@ -1,5 +1,5 @@
 {
-  "name": "@dahal/publishing-software-packages",
+  "name": "@kdahal/publishing-software-packages",
     "version": "1.0.0",
     "description": "this is a test",
     "main": "index.js",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dahal/publishing-software-packages.git"
+        "url": "git+https://github.com/kdahal/publishing-software-packages.git"
     },
     "author": "",
     "license": "ISC"
